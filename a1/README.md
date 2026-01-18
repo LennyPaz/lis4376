@@ -46,26 +46,14 @@
 
 ![VS Code - Paycheck Calculator](img/vscode.jpg)
 
-#### Screenshot of a1_paycheck_calculator application running (Jupyter Lab):
+#### Demo of a1_paycheck_calculator.ipynb (Jupyter Lab):
 
-![Jupyter Lab - Paycheck Calculator Page 1](img/jupyter_paycheck_1.jpg)
+![Jupyter Lab - Paycheck Calculator Demo](img/a1_paycheck_calculator.gif)
 
-![Jupyter Lab - Paycheck Calculator Page 2](img/jupyter_paycheck_2.jpg)
+#### Demo of run_py_files_in_jupyter_lab.ipynb (Jupyter Lab):
 
-#### Screenshot of run_py_files_in_jupyter_lab.ipynb (Jupyter Lab):
+![Jupyter Lab - Run Py Files Demo](img/run_py_files_in_jupyter_lab.gif)
 
-![Jupyter Lab - Run Py Files Page 1](img/run_py_files_1.jpg)
+#### Demo of magic_commands.ipynb (Jupyter Lab):
 
-![Jupyter Lab - Run Py Files Page 2](img/run_py_files_2.jpg)
-
-#### Screenshot of magic_commands.ipynb (Jupyter Lab):
-
-![Jupyter Lab - Magic Commands Page 1](img/magic_commands_1.jpg)
-
-![Jupyter Lab - Magic Commands Page 2](img/magic_commands_2.jpg)
-
-![Jupyter Lab - Magic Commands Page 3](img/magic_commands_3.jpg)
-
-![Jupyter Lab - Magic Commands Page 4](img/magic_commands_4.jpg)
-
-![Jupyter Lab - Magic Commands Page 5](img/magic_commands_5.jpg)
+![Jupyter Lab - Magic Commands Demo](img/magic_commands.gif)
