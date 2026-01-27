@@ -21,8 +21,12 @@
     - Create Bitbucket repo
     - Provide git command descriptions
 
-2. A2 README.md
-    - TBD
+2. [A2 README.md](a2/README.md)
+    - Create conda environment with Python packages
+    - Create *my_env_versions.py* script
+    - Create *a2_env_versions.ipynb* Jupyter Notebook
+    - Export environment to YAML file
+    - Provide screenshots/demos of environment
 
 3. A3 README.md
     - TBD
