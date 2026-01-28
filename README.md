@@ -27,6 +27,10 @@
     - Create *a2_env_versions.ipynb* Jupyter Notebook
     - Export environment to YAML file
     - Provide screenshots/demos of environment
+    - **Skill Sets:**
+        - [SS1 - Python Lists](skill_sets/ss1/)
+        - [SS2 - Python Tuples](skill_sets/ss2/)
+        - [SS3 - Python Sets](skill_sets/ss3/)
 
 3. A3 README.md
     - TBD
