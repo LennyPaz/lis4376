@@ -28,9 +28,9 @@
     - Export environment to YAML file
     - Provide screenshots/demos of environment
     - **Skill Sets:**
-        - [SS1 - Python Lists](skill_sets/ss1/)
-        - [SS2 - Python Tuples](skill_sets/ss2/)
-        - [SS3 - Python Sets](skill_sets/ss3/)
+        - [SS1 - Python Lists](skill_sets/ss1_lists/)
+        - [SS2 - Python Tuples](skill_sets/ss2_tuples/)
+        - [SS3 - Python Sets](skill_sets/ss3_sets/)
 
 3. A3 README.md
     - TBD
