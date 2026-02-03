@@ -12,21 +12,12 @@ This assignment demonstrates creating and managing conda environments with vario
 | [my_env_versions.py](my_env_versions.py) | Python script displaying package versions |
 | [testenv.yml](testenv.yml) | Exported conda environment specification |
 
-## Skill Sets (SS1-SS3)
-
-The following skill sets demonstrate Python data structures using a two-file, "separation of concerns" design principle.
-
-| SS1 - Python Lists | SS2 - Python Tuples | SS3 - Python Sets |
-|:---:|:---:|:---:|
-| [main.py](../skill_sets/ss1_lists/main.py) | [main.py](../skill_sets/ss2_tuples/main.py) | [main.py](../skill_sets/ss3_sets/main.py) |
-| [functions.py](../skill_sets/ss1_lists/functions.py) | [functions.py](../skill_sets/ss2_tuples/functions.py) | [functions.py](../skill_sets/ss3_sets/functions.py) |
-| ![SS1 Output](img/ss1_lists.png) | ![SS2 Output](img/ss2_tuples.png) | ![SS3 Output](img/ss3_sets.png) |
-
 ## Conda Environment
 
 The `testenv` environment was created with Python 3.9 and includes the following packages:
 
 **Installed via conda:**
+
 - jupyterlab
 - pandas
 - pandas-datareader
@@ -40,6 +31,7 @@ The `testenv` environment was created with Python 3.9 and includes the following
 - scipy
 
 **Installed via pip:**
+
 - tensorflow
 - opencv-python
 - keras
@@ -86,3 +78,13 @@ Or import from the YAML file:
 ```bash
 conda env create -f testenv.yml
 ```
+
+---
+
+## Skill Sets (SS1-SS3)
+
+The following skill sets demonstrate Python data structures using a two-file, "separation of concerns" design principle.
+
+| [📁 SS1 - Python Lists](../skill_sets/ss1_lists/) | [📁 SS2 - Python Tuples](../skill_sets/ss2_tuples/) | [📁 SS3 - Python Sets](../skill_sets/ss3_sets/) |
+|:---:|:---:|:---:|
+| <img src="img/ss1_lists.png" alt="SS1 Output" width="400"> | <img src="img/ss2_tuples.png" alt="SS2 Output" width="400"> | <img src="img/ss3_sets.png" alt="SS3 Output" width="400"> |
