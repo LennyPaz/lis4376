@@ -4,6 +4,24 @@
 
 This assignment demonstrates creating and managing conda environments with various Python packages for data science and machine learning.
 
+## Files
+
+| File | Description |
+|------|-------------|
+| [a2_env_versions.ipynb](a2_env_versions.ipynb) | Jupyter notebook displaying package versions |
+| [my_env_versions.py](my_env_versions.py) | Python script displaying package versions |
+| [testenv.yml](testenv.yml) | Exported conda environment specification |
+
+## Skill Sets (SS1-SS3)
+
+The following skill sets demonstrate Python data structures using a two-file, "separation of concerns" design principle.
+
+| SS1 - Python Lists | SS2 - Python Tuples | SS3 - Python Sets |
+|:---:|:---:|:---:|
+| [main.py](../skill_sets/ss1_lists/main.py) | [main.py](../skill_sets/ss2_tuples/main.py) | [main.py](../skill_sets/ss3_sets/main.py) |
+| [functions.py](../skill_sets/ss1_lists/functions.py) | [functions.py](../skill_sets/ss2_tuples/functions.py) | [functions.py](../skill_sets/ss3_sets/functions.py) |
+| ![SS1 Output](img/ss1_lists.png) | ![SS2 Output](img/ss2_tuples.png) | ![SS3 Output](img/ss3_sets.png) |
+
 ## Conda Environment
 
 The `testenv` environment was created with Python 3.9 and includes the following packages:
@@ -29,14 +47,6 @@ The `testenv` environment was created with Python 3.9 and includes the following
 ### Environment List
 
 ![Conda Environment List](img/conda_env_list.png)
-
-## Files
-
-| File | Description |
-|------|-------------|
-| [a2_env_versions.ipynb](a2_env_versions.ipynb) | Jupyter notebook displaying package versions |
-| [my_env_versions.py](my_env_versions.py) | Python script displaying package versions |
-| [testenv.yml](testenv.yml) | Exported conda environment specification |
 
 ## Running the Version Script
 
