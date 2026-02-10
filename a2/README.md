@@ -1,13 +1,25 @@
 # Assignment 2: Python Conda Environments
 
-## Overview
+**Developer:** Lenny Paz
 
-This assignment demonstrates creating and managing conda environments with various Python packages for data science and machine learning.
+**Course:** LIS4376 - Artificial Intelligence Applications
+
+## Assignment 2 Requirements
+
+*Four Parts:*
+
+1. Create conda environment
+2. Design principles: Separation of Concerns
+3. Data sets: Examining, sorting, shaping, and analyzing
+4. Bitbucket repo (main) link
+
+---
 
 ## Files
 
 | File | Description |
 |------|-------------|
+| [a2.ipynb](a2.ipynb) | Main assignment notebook - mortality data analysis |
 | [a2_env_versions.ipynb](a2_env_versions.ipynb) | Jupyter notebook displaying package versions |
 | [my_env_versions.py](my_env_versions.py) | Python script displaying package versions |
 | [testenv.yml](testenv.yml) | Exported conda environment specification |
