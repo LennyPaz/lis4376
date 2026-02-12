@@ -1,6 +1,6 @@
 # Assignment 2: Python Conda Environments
 
-**Developer:** Lenny Paz
+## Developer: Lenny Paz
 
 **Course:** LIS4376 - Artificial Intelligence Applications
 

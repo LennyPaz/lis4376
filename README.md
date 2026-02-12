@@ -6,7 +6,7 @@
 
 ## LIS4376 - Artificial Intelligence Applications
 
-**Lenny Paz**
+## Lenny Paz
 
 ### LIS4376 Requirements:
 
@@ -32,8 +32,11 @@
         - [SS2 - Python Tuples](skill_sets/ss2_tuples/)
         - [SS3 - Python Sets](skill_sets/ss3_sets/)
 
-3. A3 README.md
-    - TBD
+3. [A3 README.md](a3/README.md)
+    - Data Analysis, Shaping and Visualization
+    - Pandas data manipulation and reshaping
+    - Statistical analysis and aggregations
+    - Comprehensive visualizations
 
 4. A4 README.md
     - TBD

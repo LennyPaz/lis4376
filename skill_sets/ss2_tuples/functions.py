@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """SS2 - Functions for Python Tuples"""
 
 

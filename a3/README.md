@@ -1,6 +1,6 @@
 # Assignment 3: Data Analysis, Shaping and Visualization
 
-**Developer:** Lenny Paz
+## Developer: Lenny Paz
 
 **Course:** LIS4376 - Artificial Intelligence Applications
 
@@ -10,6 +10,12 @@
 
 1. Development: Backward-engineer the helper video using Python
 2. README.md file with screenshots and Jupyter Notebook link
+
+---
+
+## Demo
+
+![A3 Notebook Demo](img/a3_demo.gif)
 
 ---
 
@@ -77,72 +83,26 @@ The notebook follows a five-step data science workflow:
 - Scatter plots (relationship analysis)
 - Subplots (2x2 layout for comparative analysis)
 
-## Screenshots
-
-### Environment Setup
-![Environment Setup](img/01_environment.png)
-
-### Data Loading & Inspection
-![Data Loading](img/02_data_loading.png)
-
-### Sorting Operations
-![Sorting Data](img/03_sorting.png)
-
-### Statistical Functions
-![Statistical Functions](img/04_statistics.png)
-
-### Quantiles & Cumulative Sum
-![Quantiles](img/05_quantiles.png)
-
-### Column Arithmetic
-![Column Arithmetic](img/06_column_arithmetic.png)
-
-### Data Modification
-![Data Modification](img/07_data_modification.png)
-
-### Indexing Operations
-![Indexing](img/08_indexing.png)
-
-### Pivot Operations (Wide Format)
-![Pivot Wide](img/09_pivot_wide.png)
-
-### Excel File Operations
-![Excel Operations](img/10_excel_operations.png)
-
-### Melt Operations (Long Format)
-![Melt Long](img/11_melt_long.png)
-
-### Grouped Data & Aggregates
-![GroupBy Aggregates](img/12_groupby.png)
-
-### Visualization - Line Plots
-![Line Plots](img/13_line_plots.png)
-
-### Visualization - Box Plots
-![Box Plots](img/14_box_plots.png)
-
-### Visualization - Bar Charts
-![Bar Charts](img/15_bar_charts.png)
-
-### Visualization - Pie Chart
-![Pie Chart](img/16_pie_chart.png)
-
-### Visualization - Subplots
-![Subplots](img/17_subplots.png)
-
-### Visualization - Scatter Plot
-![Scatter Plot](img/18_scatter_plot.png)
-
 ---
 
-## Notes
+## Skill Sets (SS4-SS6)
 
-- **Important:** Before uploading the .ipynb file, use Kernel menu to:
-  - Restart & Clear Output
-  - Restart & Run All
-- Excel file (mortality_wide.xlsx) must be saved and read using .xlsx format (cells 34-35)
-- Visualization section demonstrates multiple chart types for comprehensive data presentation
+Skill sets use a two-file "separation of concerns" design: `main.py` runs the program, `functions.py` contains reusable functions.
 
-## Helper Video
+### SS4 - Python Dictionaries
 
-[Assignment 3 Helper Video (no audio)](http://qcitr.com/vids/lis4376_5377_A3.mp4)
+[📁 Source Code](../skill_sets/ss4_dictionaries/) · [main.py](../skill_sets/ss4_dictionaries/main.py) · [functions.py](../skill_sets/ss4_dictionaries/functions.py)
+
+![SS4 Output](img/ss4_dictionaries.png)
+
+### SS5 - Pandas DataFrames and Series 1
+
+[📁 Source Code](../skill_sets/ss5_pandas_df_and_series_1/) · [main.py](../skill_sets/ss5_pandas_df_and_series_1/main.py) · [functions.py](../skill_sets/ss5_pandas_df_and_series_1/functions.py)
+
+![SS5 Output](img/ss5_pandas_df_and_series_1.gif)
+
+### SS6 - Pandas DataFrames and Series 2
+
+[📁 Source Code](../skill_sets/ss6_pandas_df_and_series_2/) · [main.py](../skill_sets/ss6_pandas_df_and_series_2/main.py) · [functions.py](../skill_sets/ss6_pandas_df_and_series_2/functions.py)
+
+![SS6 Output](img/ss6_pandas_df_and_series_2.png)

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """SS1 - Functions for Python Lists"""
 
 

@@ -1,6 +1,6 @@
 # LIS4376 - Artificial Intelligence Applications
 
-**Developer:** Lenny Paz
+## Developer: Lenny Paz
 
 ### Assignment 1 Requirements:
 
