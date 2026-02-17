@@ -37,6 +37,10 @@
     - Pandas data manipulation and reshaping
     - Statistical analysis and aggregations
     - Comprehensive visualizations
+    - **Skill Sets:**
+        - [SS4 - Python Dictionaries](skill_sets/ss4_dictionaries/)
+        - [SS5 - Pandas DataFrame and Series 1](skill_sets/ss5_pandas_df_and_series_1/)
+        - [SS6 - Pandas DataFrame and Series 2](skill_sets/ss6_pandas_df_and_series_2/)
 
 4. A4 README.md
     - TBD
