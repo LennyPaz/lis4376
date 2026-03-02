@@ -48,8 +48,13 @@
 5. A5 README.md
     - TBD
 
-6. P1 README.md
-    - TBD
+6. [P1 README.md](p1/README.md)
+    - Text Analysis, Classification, and Prediction
+    - Simple Predictive Analysis with Linear Regression
+    - **Skill Sets:**
+        - [SS7 - Pseudo-Random Number Lists](skill_sets/ss7_pseudo_random_number_lists/)
+        - [SS8 - Interest Calculator](skill_sets/ss8_interest_calculator/)
+        - [SS9 - Guessing Game](skill_sets/ss9_guessing_game/)
 
 7. P2 README.md
     - TBD
