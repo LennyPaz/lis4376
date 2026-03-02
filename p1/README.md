@@ -31,25 +31,11 @@
 
 ![P1 Notebook Demo](img/p1_demo.gif)
 
+[p1.ipynb](p1.ipynb)
+
 *Simple Predictive Analysis:*
 
 ![Simple Predictive Analysis Demo](img/simple_predictive_analysis_demo.gif)
-
----
-
-## Assignment Screenshots
-
-*Screenshot P1 Completed App*:
-
-![P1 Completed App](img/p1.png)
-
-[p1.ipynb](p1.ipynb)
-
----
-
-*Screenshot Simple Predictive Analysis Completed App*:
-
-![Simple Predictive Analysis Completed App](img/simple_predictive_analysis.png)
 
 [Simple_predictive_analysis.ipynb](Simple_predictive_analysis.ipynb)
 
