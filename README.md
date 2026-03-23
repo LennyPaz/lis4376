@@ -42,8 +42,14 @@
         - [SS5 - Pandas DataFrame and Series 1](skill_sets/ss5_pandas_df_and_series_1/)
         - [SS6 - Pandas DataFrame and Series 2](skill_sets/ss6_pandas_df_and_series_2/)
 
-4. A4 README.md
-    - TBD
+4. [A4 README.md](a4/README.md)
+    - Predictive Analysis (Simple Linear Regression)
+    - Correlation analysis and Seaborn visualizations
+    - Simple linear regression model with scikit-learn
+    - **Skill Sets:**
+        - [SS10 - Simple Shopping Cart](skill_sets/ss10_simple_shopping_cart/)
+        - [SS11 - Lists and Dictionaries](skill_sets/ss11_lists_and_dictionaries/)
+        - [SS12 - File Info](skill_sets/ss12_file_info/)
 
 5. A5 README.md
     - TBD
