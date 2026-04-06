@@ -51,8 +51,14 @@
         - [SS11 - Lists and Dictionaries](skill_sets/ss11_lists_and_dictionaries/)
         - [SS12 - File Info](skill_sets/ss12_file_info/)
 
-5. A5 README.md
-    - TBD
+5. [A5 README.md](a5/README.md)
+    - Predictive Analysis (Multiple Linear Regression)
+    - Correlation analysis and Seaborn visualizations
+    - Multiple linear regression model with scikit-learn
+    - **Skill Sets:**
+        - [SS13 - Algorithms](skill_sets/ss13_algorithms/)
+        - [SS14 - Python Image Processing](skill_sets/ss14_python_image_processing/)
+        - [SS15 - Python Image Processing 2](skill_sets/ss15_python_image_processing2/)
 
 6. [P1 README.md](p1/README.md)
     - Text Analysis, Classification, and Prediction
