@@ -68,5 +68,8 @@
         - [SS8 - Interest Calculator](skill_sets/ss8_interest_calculator/)
         - [SS9 - Guessing Game](skill_sets/ss9_guessing_game/)
 
-7. P2 README.md
-    - TBD
+7. [P2 README.md](p2/README.md)
+    - Deep Learning: Image Classification
+    - Convolutional Neural Network (CNN) trained on CIFAR-10 with TensorFlow/Keras
+    - Prediction on custom 32x32 animal images via Pillow + NumPy batch expansion
+    - In-Class Machine Learning Exercise: [Wine Quality Prediction](p2/wine_quality_exercise/) with RandomForestClassifier
